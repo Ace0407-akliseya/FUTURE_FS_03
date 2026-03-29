@@ -1,6 +1,7 @@
 # Simoo coffee and pastry
 
 Welcome to the Simoo coffee and pastry project!
+Live Demo: https://future-fs-03-sigma.vercel.app/
 
 ## Project Info
 
